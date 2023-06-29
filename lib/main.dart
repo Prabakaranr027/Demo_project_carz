@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
                     fontSize: 100.0,
                     fontWeight: FontWeight.bold,
                     //importing custom fonts
-                    fontFamily:'Inspiration'
+                    fontFamily:'Inspiration',
                 ),
               ),
               //inserting online image
@@ -43,7 +43,7 @@ class _MyAppState extends State<MyApp> {
               Text("HYUNDAI",
                 //importing google_fonts
                 style: GoogleFonts.dancingScript(
-                  fontSize: 100.0,
+                  fontSize: 90.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),
